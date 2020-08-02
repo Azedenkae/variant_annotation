@@ -9,7 +9,7 @@ Prototype tool for annotating allele variants, developed as part of the Tempus c
 5. Allele frequency of variant from ExAC API.
 
 # Dependencies:
-* Python libraries: argparse, os, requests, json
+* Python modules: argparse, os, requests, json
 
 # Installation:
 * variant_annotation does not require installation.
